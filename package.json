@@ -1,0 +1,22 @@
+{
+  "name": "parcial-1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "serve"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gerisastoque/parcial1.git"
+  },
+  "author": "Geraldine Sastoque",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gerisastoque/parcial1/issues"
+  },
+  "homepage": "https://github.com/gerisastoque/parcial1#readme",
+  "devDependencies": {
+    "serve": "^14.2.1"
+  }
+}
